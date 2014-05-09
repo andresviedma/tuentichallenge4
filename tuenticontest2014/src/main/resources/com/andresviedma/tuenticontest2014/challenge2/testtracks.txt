@@ -1,0 +1,37 @@
+        (new Track("-#\\\\-\\-//--/--\\\\-\\-//--/")).print(out);
+        out.println();
+        out.flush();
+        System.out.flush();
+        (new Track("-/-#\\\\-\\-//--/--\\\\-\\-//-")).print(out);
+        out.println();
+        out.flush();
+        System.out.flush();
+        (new Track("-\\-//--/-#\\\\-\\-//--/--\\")).print(out);
+        out.println();
+        out.flush();
+        System.out.flush();
+//        (new Track("-/--\\-\\-//--/-#\\\\-\\-//-")).print(out);
+//        out.println();
+//        out.flush();
+//        System.out.flush();
+        
+        (new Track("-\\\\--\\-#//-/-\\\\--\\--//-\\")).print(out);
+        out.println();
+        out.flush();
+        System.out.flush();
+        
+        //Track t = new Track("#----\\-----/-----\\-----/");
+        //Track t = new Track("------\\-/-/-\\-----#-------\\--/----------------\\--\\----\\---/---");
+        
+//        (new Track("-\\--/--\\--/#")).print(out);
+//        out.println();
+//        (new Track("-\\--/--\\#-/-")).print(out);
+//        out.println();
+//        (new Track("-\\--/#-\\--/-")).print(out);
+//        out.println();
+//        (new Track("-\\#-/--\\--/-")).print(out);
+//        out.println();
+//        //t.print(out);
+        out.flush();
+        System.out.flush();
+if(true)  return;
